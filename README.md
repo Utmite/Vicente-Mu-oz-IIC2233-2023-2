@@ -9,6 +9,9 @@
 > [!NOTE]  
 > T1: 6 T2: 7 T3: 6.8
 
+> [!NOTE]  
+> Actividades todo bueno, menos la 5 igual fueron 2 test asi que puntaje completo xd
+
 
 Este es el repositorio que utilizarás durante el resto del curso. Tanto profesores, ayudantes y bots tenemos acceso a este y podremos ver todos los cambios que hagas en tu código. **Es tu deber darle un buen uso y solo con fines académicos.**
 
